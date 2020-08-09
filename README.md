@@ -6,10 +6,12 @@
 <h4>Home Page <sub>Select Option to Submit Answer</sub> </h4>
 <img src="./src/assets/screenshots/selectAnswer.png" width="100%" title ="screenshot">
 </p>
+
 <p align="center">
 <h4>Option selected </h4>
-<img src="./src/assets/screenshots/selectedAnswer.png" width="100%" title ="screenshot">
+<img src="https://github.com/hackcharms/Quiz-Vue/blob/master/src/assets/screenshots/selectedOption.png" width="100%" title ="screenshot">
 </p>
+
 
 <p align="center">
 <h4>Correct Answer</h4>
